@@ -20,7 +20,7 @@ sidebar-avatar: /img/DdalQpjV0AAGINA (1).jpg      # use absolute URL, seeing it'
 RSS: false
 # weibo_username:     qiubaiying
 zhihu_username:     cyxmiao
-github_username:    chenyixuan
+github_username:    qdchenyixuan
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: a609d69db313df7379a1                            #生成的clientID
+  clientSecret: f45fcf6d0d56bad0eb1ee4241c94af7d296e81bc    #生成的clientSecret
+  repo: qdchenyixuan.github.io    #仓库名称
+  owner: qdchenyixuan    #github用户名
+  admin: qdchenyixuan
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
