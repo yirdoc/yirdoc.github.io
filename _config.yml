@@ -1,17 +1,17 @@
 # Site settings
-title: 陈奕璇 Blog
-SEOTitle: 陈奕璇的博客
+title: 梁楠楠and陈奕璇's Blog
+SEOTitle: 陈奕璇和梁楠楠的博客
 header-img: img/post-bg-coffee.jpeg 
-email: qiubaiying@gmail.com
-description: "火炉旁最好的位置总是留给说书人."
-keyword: "BY, BY Blog, 陈奕璇的博客, chenyixuan, 陈奕璇, iOS, Apple, iPhone"
+email: qingdaochenyixuan@gmail.com
+description: "程序员秀起恩爱，就没你们什么事了"
+keyword: "梁楠楠和陈奕璇的博客, 陈奕璇,梁楠楠"
 url: "http://qdchenyixuan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qdchenyixuan/qdchenyixuangithub.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "火炉旁最好的位置总是留给说书人"
+sidebar-about-description: "情侣空间"
 sidebar-avatar: /img/DdalQpjV0AAGINA (1).jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -67,7 +67,7 @@ gitalk:
   repo: qdchenyixuan.github.io    #仓库名称
   owner: qdchenyixuan    #github用户名
   admin: qdchenyixuan
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  distractionFreeMode: false #是否启用类似FB的阴影遮罩
 
 
 # 统计
@@ -101,14 +101,5 @@ friends: [
     {
         title: "WY",
         href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
     }
 ]
