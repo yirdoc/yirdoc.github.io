@@ -1,13 +1,13 @@
 # Site settings
 title: 陈奕璇 Blog
 SEOTitle: 陈奕璇的博客
-header-img: img/post-bg-2015.jpg
+header-img: img/post-bg-coffee.jpeg 
 email: qiubaiying@gmail.com
 description: "火炉旁最好的位置总是留给说书人."
 keyword: "BY, BY Blog, 陈奕璇的博客, chenyixuan, 陈奕璇, iOS, Apple, iPhone"
 url: "http://qdchenyixuan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/qdchenyixuan/qdchenyixuangithub.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
