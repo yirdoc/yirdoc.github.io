@@ -1,6 +1,6 @@
 
 
-##致敬  
+## 致敬  
 [GitHub](https://github.com)  
 [jekyll](http://jekyll.com.cn/)  
 [Hux模板源码编写](http://huangxuan.me/)  
