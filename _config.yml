@@ -1,17 +1,17 @@
 # Site settings
-title: 梁璇 Blog
-SEOTitle: 陈奕璇和梁楠楠的博客
+title: 青岛未来医疗新闻页
+SEOTitle: 青岛未来医疗
 header-img: img/post-bg-coffee.jpeg 
-email: qingdaochenyixuan@gmail.com
-description: "程序员秀起恩爱，就没你们什么事了"
-keyword: "梁楠楠和陈奕璇的博客, 陈奕璇,梁楠楠"
+email: yirdoc@yirdoc.com
+description: "yirdoc"
+keyword: "yirdoc"
 url: "http://yirdoc.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qdchenyixuan/qdchenyixuan.github.io.git" # you code repository
+github_repo: "https://github.com/yirdoc/yirdoc.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "一个记录我们生活的安静小站"
+sidebar-about-description: "公司官网"
 sidebar-avatar: /img/DdalQpjV0AAGINA (1).jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,8 +19,8 @@ sidebar-avatar: /img/DdalQpjV0AAGINA (1).jpg      # use absolute URL, seeing it'
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     cyxmiao
-github_username:    qdchenyixuan
+#zhihu_username:     cyxmiao
+#github_username:    qdchenyixuan
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: a609d69db313df7379a1                            #生成的clientID
   clientSecret: f45fcf6d0d56bad0eb1ee4241c94af7d296e81bc    #生成的clientSecret
-  repo: qdchenyixuan.github.io    #仓库名称
-  owner: qdchenyixuan    #github用户名
-  admin: qdchenyixuan
+  repo: yirdoc.github.io    #仓库名称
+  owner: yirdoc    #github用户名
+  admin: yirdoc 
   distractionFreeMode: false #是否启用类似FB的阴影遮罩
 
 
